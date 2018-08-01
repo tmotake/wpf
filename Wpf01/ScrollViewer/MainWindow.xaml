@@ -1,0 +1,28 @@
+﻿<Window
+    x:Class="ScrollViewer.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ScrollViewer"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="525"
+    Height="200"
+    mc:Ignorable="d">
+    <Grid>
+        <ScrollViewer CanContentScroll="True" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <Button Content="Button1" />
+                <Button Content="Button2" />
+                <Button Content="Button2" />
+                <Button Content="Button2" />
+                <Button Content="Button2" />
+                <Button Content="Button2" />
+                <Button Content="Button2" />
+                <Button Content="Button2" />
+                <Button Content="Button2" />
+                <Button Content="Button2" />
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

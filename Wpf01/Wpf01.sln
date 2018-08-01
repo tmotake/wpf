@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapPanel", "WrapPanel\Wrap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewBox", "ViewBox\ViewBox.csproj", "{3013A1EF-2910-43AE-BA67-ECCA0B36A196}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollViewer", "ScrollViewer\ScrollViewer.csproj", "{C3597EAA-5BCA-476A-96A4-950616AF4FC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{3013A1EF-2910-43AE-BA67-ECCA0B36A196}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3013A1EF-2910-43AE-BA67-ECCA0B36A196}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3013A1EF-2910-43AE-BA67-ECCA0B36A196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3597EAA-5BCA-476A-96A4-950616AF4FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3597EAA-5BCA-476A-96A4-950616AF4FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3597EAA-5BCA-476A-96A4-950616AF4FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3597EAA-5BCA-476A-96A4-950616AF4FC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
